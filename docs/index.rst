@@ -2,7 +2,19 @@
 Welcome to Sphinx-test's documentation!
 =============================================
 
-.. image:: https://github.com/gradient-tools/gradient/blob/gh-pages/images/background_landing.jpg
+.. image:: http://www.ladybug.tools/assets/img/honeybee.png
 
 Try python documentation on sphinx.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+.. include:: modules.rst
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
