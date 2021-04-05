@@ -2,7 +2,7 @@
 Welcome to Sphinx-test's documentation!
 =============================================
 
-.. image:: http://www.ladybug.tools/assets/img/honeybee.png
+.. image:: ../assets/gradient.png
 
 Try python documentation on sphinx.
 
