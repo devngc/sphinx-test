@@ -1,20 +1,5 @@
 """A VTK representation of HBModel."""
 
-import pathlib
-import shutil
-import webbrowser
-import tempfile
-import os
-from collections import defaultdict
-from typing import Dict, List
-from honeybee.model import Model as HBModel
-from ladybug.color import Color
-from .types import ModelDataSet, PolyData
-from .to_vtk import convert_aperture, convert_face, convert_room, convert_shade, \
-    convert_sensor_grid
-from .vtkjs.schema import IndexJSON, DisplayMode, SensorGridOptions
-from .vtkjs.helper import convert_directory_to_zip_file, add_data_to_viewer
-
 
 _COLORSET = {
     'Wall': [0.901, 0.705, 0.235, 1],
