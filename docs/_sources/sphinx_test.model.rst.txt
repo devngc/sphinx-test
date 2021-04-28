@@ -1,0 +1,7 @@
+sphinx\_test.model module
+=========================
+
+.. automodule:: sphinx_test.model
+   :members:
+   :undoc-members:
+   :show-inheritance:

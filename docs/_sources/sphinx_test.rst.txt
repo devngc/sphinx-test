@@ -1,0 +1,18 @@
+sphinx\_test package
+====================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sphinx_test.model
+
+Module contents
+---------------
+
+.. automodule:: sphinx_test
+   :members:
+   :undoc-members:
+   :show-inheritance:
